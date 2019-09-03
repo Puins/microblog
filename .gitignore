@@ -3,4 +3,7 @@
 *.pyc
 .python-version
 *db_repository*
+backup.md
+*/versions/*.py
+tmp/
 
