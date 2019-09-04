@@ -5,5 +5,5 @@
 *db_repository*
 backup.md
 */versions/*.py
-tmp/
+logs/
 
