@@ -2,8 +2,7 @@
 *__pycache__*
 *.pyc
 .python-version
-*db_repository*
 backup.md
 */versions/*.py
-logs/
+logs/*.log
 
