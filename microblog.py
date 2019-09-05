@@ -10,4 +10,4 @@ def make_shell_context():
     return {'db': db, 'User': User, 'Post': Post, 'Message': Message,
             'Notification': Notification, 'Task': Task}
 
-app.run(debug = True)
+#app.run(debug = True)  //命令行运行
